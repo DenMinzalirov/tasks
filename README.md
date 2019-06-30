@@ -2,8 +2,9 @@
  
 | Start time  | End time | time spent | feature |
 |-----------|-------------|-------------|-------------|
-| May 27 | Jun 6 | 30h | base structure of the project |
-| Jun 7 | Jun 7 | 10h | frame management implementation |
-| Jun 8 | Jun 10 | 8h | Lighten, Dithering tools implementation |
-| Jun 11 | Jun 12 | 5h | layers implementation |
-| Jun 12 | Jun 12 | 10h | bug fixing in canvas implementation  
+| Jun 23 | Jun 25 | 5h | Создал проект (настроил webpack) |
+| Jun 26 | Jun 26 | 4h | Создал инструмент перо, сверстана страница и стили |
+| Jun 27 | Jun 27 | 4h | Настроил выбор цвета пера |
+| Jun 28 | Jun 28 | 4h | Создал инструмент стерка и ведро |
+| Jun 29 | Jun 29 | 4h | Создал предпросмотр анимация, список фреймов |
+| Jun 30 | Jun 30 | 10h | Создал стартовую страницу, gif-экспорт, настроил лучше анимацию, сделал fullScreenMode, исправил добавление удаление фреймов, рефактор, gh-pages |
